@@ -18,3 +18,5 @@ tags:
 
     有日语、英语和繁体中文等语言可以选择
     看不懂日语也能查看各种必须的信息
+	![jiaziyuan1](/assets/images/jiaziyuan1.jpg)
+	![jiaziyuan2](/assets/images/jiaziyuan2.jpg)
