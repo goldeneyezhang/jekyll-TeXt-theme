@@ -35,7 +35,7 @@ In Tokyo softball will try to show the Olympic Family it belongs in the Games: �
 Why baseball-softball and not other sports? “Because baseball and softball are more entertaining than most of the sports. We can prove that. In Tokyo we must attract huge crowds. We want to show that baseball and softball belong in the Olympics beyond 2020”
 What would you tell a girl to convince her to start playing softball? “It’s the perfect choice for a girl. As I said, to excel in softball you need to have multiple skills.”
 
-![liqi](/assets/images/liqi.jpg)
+![liqi](/assets/images/LIQI.jpg)
 
 It’s common belief that that since softball was out of the Olympics the development of the game slowed down in China: “Being out of the 2012 and 2016 Games for sure influenced the development of the game in my Country. But I feel the chances for softball are back there. We’re starting to involve more people.”
 Do you have a Softball League in China? “Not yet. The teams represent the difference Provinces. I play for the Beijing Province. We have two different seasons: one in the first half of the year and one in the second half. We attract good interest. We are not at the level of USA and Japan, but we are growing rapidly. Building a Professional League is in our plans.”
