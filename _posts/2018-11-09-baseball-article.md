@@ -21,5 +21,5 @@ tags:
 
 2002年，约翰-亨利与汤姆-沃纳（两人目前也是利物浦老板）一起收购了波士顿红袜，两年后，波士顿红袜在世界大赛中击败了亨利儿时最爱的圣路易斯红雀，时隔86年再度捧起世界大赛总冠军，此后，在07年、13年以及今年，红袜都能得偿所愿。
 
-![redsox1](/assets/images/redsox1.jpg)
-![redsox2](/assets/images/redsox1.jpg)
+![redsox1](/assets/images/redsox1.png)
+![redsox2](/assets/images/redsox1.png)
